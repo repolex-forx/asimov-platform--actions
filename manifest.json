@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "asimov-platform",
+  "repo": "actions",
+  "versions": [
+    {
+      "commit": "c243fa7055a2a5c2e803ca5df32088f67f1c9393",
+      "parsed_at": "2026-09-27T19:09:11.179838+00:00",
+      "tag": "master",
+      "filetree": "filetree/c243fa7055a2a5c2e803ca5df32088f67f1c9393.nq.gz",
+      "blobs": [
+        "blob/1c4b6f4f794d4fc9d85675e47263d9aacfbedf2c.nq.gz",
+        "blob/4a6b614c7fecc0dd1f15c0c26fde035512287600.nq.gz",
+        "blob/a61c394b41360078f546f2409e80a04a3b119bf8.nq.gz",
+        "blob/fdddb29aa445bf3d6a5d843d6dd77e10a9f99657.nq.gz",
+        "blob/b219759736353497c0c33bfe0e5a3ddbc97f71fa.nq.gz",
+        "blob/4a7b4c6d2af5097f9d1ed7aa7ad5f9078f6b27e5.nq.gz",
+        "blob/0008031182edcb1391a56cff9b820cc331065595.nq.gz",
+        "blob/de7b3e62b0355adfb9b0017af167b1d97fe987bb.nq.gz",
+        "blob/d832d4a9cf5ed3fe2d90e9b339a414be9c97a18d.nq.gz",
+        "blob/c8d89753487074a5dc47cab5e8a4e47403d734a3.nq.gz",
+        "blob/9644164cc7b4dae39f05a267f83ba2b77866af3b.nq.gz",
+        "blob/8ba11347d7cdc9f613090c3871bdfaa618600278.nq.gz",
+        "blob/52d956b85a256c918b344b4c6e20d1a7a3b1893f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
